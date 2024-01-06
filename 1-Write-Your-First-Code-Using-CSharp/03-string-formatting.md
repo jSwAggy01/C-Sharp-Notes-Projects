@@ -80,7 +80,7 @@ Console.WriteLine(@"c:\invoices\app.exe -j");
 ```
 
 **Output**
-```cs
+```
 Generating invoices for customer "Contoso Corp" ...
 
 Invoice: 1021            Complete!
@@ -95,13 +95,13 @@ c:\invoices
 
 ## Combining Strings Using Concatenation
 
-String concatenation is pretty much like concatenation of variable and symbols if you can recall *Automata and Formal Languages*. It's essentially appending things to the back of other things.
+String concatenation is pretty much like the concatenation of variable and symbols if you can recall *Automata and Formal Languages*. It's essentially appending things to the back of other things.
 
 For example,
 ```cs
-string firstName = "Bob";                       // First variable
-string message = "Hello " + firstName + "!";    // Second variable
-Console.WriteLine(message);
+string firstName = "Bob";                       // 1st variable
+string message = "Hello " + firstName + "!";    // 2nd variable + 1st variable?
+Console.WriteLine(message);                     // Output
 ```
 
 yields:
@@ -109,33 +109,32 @@ yields:
 Hello Bob!
 ```
 
-This will produce the same output.
-
-**C#**
+This will also produce the same output:
 ```cs
-string firstName = "Bob";                               // First variable
-string greeting = "Hello";                              // Second variable
+string firstName = "Bob";                               // 1st variable
+string greeting = "Hello";                              // 2nd variable
 string message = greeting + " " + firstName + "!";      // Extra variable?
-Console.WriteLine(message);
-```
-
-**Output**
-```
-Hello Bob!
-```
-
-But akin to "useless symbols" in *Automata and Formal Languages*, it is generally considered bad practice because we used an extra variable to hold the entire display message.
-```cs
-string message = greeting + " " + firstName + "!";      // Extra variable?
-```
-
-When we could have easily just did this.
-```cs
-string firstName = "Bob";
-string greeting = "Hello";
-Console.WriteLine(greeting + " " + firstName + "!");
+Console.WriteLine(message);                             // Output
 ```
 
 ```
 Hello Bob!
 ```
+
+But akin to "useless symbols" in *Automata and Formal Languages*, it is generally considered bad practice because we used an extra or **intermediate** variable to hold the entire display message.
+```cs
+string message = greeting + " " + firstName + "!";      // Extra variable? (Intermediate variable)
+```
+
+When we could have easily just did this:
+```cs
+string firstName = "Bob";                               // 1st variable
+string greeting = "Hello";                              // 2nd variable
+Console.WriteLine(greeting + " " + firstName + "!");    // Output
+```
+
+```
+Hello Bob!
+```
+
+Of which, is much cleaner and more human-friendly to read.

@@ -37,6 +37,11 @@ Console.WriteLine("Jimmy chose '" + userOption + "' and won " + gameScore + " po
 Console.WriteLine("Alexandra was '" + answer + "' when she answered " + particlesPerMillion + " moles.");
 ```
 
+```
+Jimmy chose 'a' and won 123 points.
+Alexandra was 'False' when she answered 12.39816 moles.
+```
+
 `var` is a special data type that creates an implicitly typed local variable when initialized.
 
 Examples:
