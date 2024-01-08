@@ -1,6 +1,6 @@
 # Write Your First C# Code 
 
-C# is essentially Microsoft's version of C++. It is considered a high-level programming language, whereas C++ is more low-level by today's standards since it has no automatic memory management. This is also save for the fact that the definition for what a low-level programming language is, has changed since its inception of computer science.
+C# is essentially Microsoft's version of C++. It is considered a high-level programming language, whereas C++ is more low-level by today's standards since it has no automatic memory management. This is also save for the fact that the definition for what a low-level programming language is, has changed since its inception in computer science.
 
 ## Basic Syntax
 

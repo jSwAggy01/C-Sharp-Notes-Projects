@@ -13,7 +13,7 @@ Console.WriteLine("Hello\tWorld!");     // Adds a tab
 ```
 
 yields:
-```cs
+```
 Hello
 World!
 Hello   World!
@@ -45,7 +45,7 @@ Console.WriteLine(@"    c:\source\repos
 ```
 
 produces:
-```cs
+```
 c:\source\repos    
         (this is where your code goes)
 ```
@@ -58,7 +58,7 @@ Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");     // Kon'nichiwa W
 ```
 
 **Output**
-```cs
+```
 こんにちは World!
 ```
 
@@ -93,9 +93,11 @@ c:\invoices
     c:\invoices\app.exe -j
 ```
 
+**Note**: Not all consoles support unicode characters.
+
 ## Combining Strings Using Concatenation
 
-String concatenation is pretty much like the concatenation of variable and symbols if you can recall *Automata and Formal Languages*. It's essentially appending things to the back of other things.
+String concatenation is pretty much like the concatenation of variables and symbols if you can recall *Automata and Formal Languages*. It's essentially appending things to the back of other things.
 
 For example,
 ```cs
@@ -138,3 +140,42 @@ Hello Bob!
 ```
 
 Of which, is much cleaner and more human-friendly to read.
+
+## Combining Strings Using Interpolation
+
+String interpolation is almost like vebatim string concatenation.
+
+For example,
+```cs
+string firstName = "Bob";
+string greeting = "Hello";
+Console.WriteLine(greeting + " " + firstName + "!");
+```
+
+can more concisely be written like this:
+```cs
+string firstName = "Bob";
+string message = $"Hello {firstName}!";
+Console.WriteLine(message);
+```
+
+to produce the same result.
+```
+Hello Bob!
+```
+
+Except in this manner, we are more efficient by not having to type in the `+` signs to explicitly concatenate everything in the output.
+
+This technique is called an **string interpolation**, which is constructed by adding the `$` prefix in front of `"..."`, in which we can then use `{...}` within the string literal.
+
+Additionally, you can also use **verbatim literals** with **string interpolation**, as demonstrated below:
+```cs
+string projectName = "First-Project";
+Console.WriteLine($@"C:\Output\{projectName}\Data");
+```
+
+```
+C:\Output\First-Project\Data
+```
+
+**Note**: The `$` symbol allows you to reference the *interpolation expression* `projectName`, while the `@` symbol allows you to use a **verbatim literal string** that enables `\` to be an unescaped character.
