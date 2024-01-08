@@ -29,7 +29,7 @@ Here, the entire output converts all the variables into a string.
 Bob sold 7 widgets.
 ```
 
-However valid, this generally isn't considered ***good practice*** due to more advanced cases such as this:
+However valid, this generally isn't considered "good practice" due to more advanced cases such as this:
 ```cs
 string firstName = "Bob";
 int widgetsSold = 7;
