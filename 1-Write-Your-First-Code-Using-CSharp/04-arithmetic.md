@@ -55,7 +55,7 @@ Console.WriteLine(firstName + " sold " + (widgetsSold + 7) + " widgets.");
 Bob sold 14 widgets.
 ```
 
-Note: This is what would generally be considered "best practice."
+**Note**: This is what would generally be considered "best practice."
 
 ## Decimals
 
