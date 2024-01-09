@@ -59,7 +59,7 @@ Bob sold 14 widgets.
 
 ## Decimals
 
-Likewise, integer arithmetic should not be confused with decimal arithmetic. And as with C++, you must be sure to specify decimal arithmetic.
+Likewise, integer arithmetic should not be confused with decimal arithmetic. And as with C++, you must be sure to specify the latter.
 
 This can be done using the `m` suffix in the following fashions:
 ```cs
