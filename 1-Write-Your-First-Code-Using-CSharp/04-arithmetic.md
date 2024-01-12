@@ -94,7 +94,7 @@ Console.WriteLine(quotient);
 1.4
 ```
 
-## Modulo, my old friend
+## Modulo!
 
 And as you know, the modulo operator `%` is also a reappearing arithmetic operator.
 ```cs
