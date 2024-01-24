@@ -1,0 +1,15 @@
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\bin\Debug\net8.0\ChallengeProject.exe
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\bin\Debug\net8.0\ChallengeProject.deps.json
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\bin\Debug\net8.0\ChallengeProject.runtimeconfig.json
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\bin\Debug\net8.0\ChallengeProject.dll
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\bin\Debug\net8.0\ChallengeProject.pdb
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\ChallengeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\ChallengeProject.AssemblyInfoInputs.cache
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\ChallengeProject.AssemblyInfo.cs
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\ChallengeProject.csproj.CoreCompileInputs.cache
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\ChallengeProject.sourcelink.json
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\ChallengeProject.dll
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\refint\ChallengeProject.dll
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\ChallengeProject.pdb
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\ChallengeProject.genruntimeconfig.cache
+C:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\2-Create-and-Run-Simple-CSharp-Console-Applications\FinalProjects\ChallengeProject\obj\Debug\net8.0\ref\ChallengeProject.dll
