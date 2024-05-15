@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "knDShjiLBMIOtOvQPZ8IaZ4mMP5usZEwQHX7EWuDvMyZE1gRU1wE25UgFbblxNW91U/4OO/U4yRL4e1hIFs2oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\4-Work-with-Variable-Data-in-CSharp-Console-Applications\\FinalProjects\\ChallengeProject\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jSwAggy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\jSwAggy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\jSwAggy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\jSwAggy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

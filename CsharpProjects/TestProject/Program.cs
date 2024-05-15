@@ -1,61 +1,156 @@
-﻿/*
-Requirements:
-- Your solution must declare an integer variable named periodLocation that can be used to hold the location of the period character within a string.
+﻿/* Exercise: Display random numbers */
+// Console.WriteLine("Generating random numbers:");
+// DisplayRandomNumbers();
 
-- Your solution must use the following string array to represent the input to your coding logic:
+// void DisplayRandomNumbers()
+// {
+//     Random random = new Random();
 
-    `string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };`
+//     for (int i = 0; i < 5; i++)
+//     {
+//         Console.Write($"{random.Next(1,100)} ");
+//     }
 
-- Your solution must include an outer foreach or for loop that can be used to process each string element in the array.
-The string variable that you'll process inside the loops should be named myString.
+//     Console.WriteLine();
+// }
 
-- In the outer loop, your solution must use the IndexOf() method of the String class to get the location of the first period character in the myString variable.
-The method call should be similar to: myString.IndexOf("."). If there's no period character in the string, a value of -1 will be returned.
+/* Exercise: Identify duplicated code */
+// using System;
 
-- Your solution must include an inner do-while or while loop that can be used to process the myString variable.
-    - In the inner loop, your solution must extract and display (write to the console) each sentence that is contained in each of the strings that are processed.
-    - In the inner loop, your solution must not display the period character.
-    - In the inner loop, your solution must use the Remove(), Substring(), and TrimStart() methods to process the string information.
+// int[] times = { 800, 1200, 1600, 2000 };
+// int diff = 0;
 
-Output:
-I like pizza
-I like roast chicken
-I like salad
-I like all three of the menu choices
+// Console.WriteLine("Enter current GMT");
+// int currentGMT = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine("Current Medicine Schedule:");
+// DisplayTimes();
+
+// Console.WriteLine("Enter new GMT");
+// int newGMT = Convert.ToInt32(Console.ReadLine());
+
+// if (Math.Abs(newGMT) > 12 || Math.Abs(currentGMT) > 12)
+// {
+//     Console.WriteLine("Invalid GMT");
+// }
+// else if (newGMT <= 0 && currentGMT <= 0 || newGMT >= 0 && currentGMT >= 0)
+// {
+//     diff = 100 * (Math.Abs(newGMT) - Math.Abs(currentGMT));
+//     AdjustTimes();
+// }
+// else
+// {
+//     diff = 100 * (Math.Abs(newGMT) + Math.Abs(currentGMT));
+//     AdjustTimes();
+// }
+
+// Console.WriteLine("New Medicine Schedule:");
+// DisplayTimes();
+
+// // Format and display medicine times
+// void DisplayTimes()
+// {
+//     foreach (int val in times)
+//     {
+//         string time = val.ToString();
+//         int len = time.Length;
+
+//         if (len >= 3)
+//         {
+//             time = time.Insert(len - 2, ":");
+//         }
+//         else if (len == 2)
+//         {
+//             time = time.Insert(0, "0:");
+//         }
+//         else
+//         {
+//             time = time.Insert(0, "0:0");
+//         }
+
+//         Console.Write($"{time} ");
+//     }
+
+//     Console.WriteLine();
+// }
+
+// void AdjustTimes()
+// {
+//     // Adjust the times by adding the difference, keeping the value within 24 hours
+//     for (int i = 0; i < times.Length; i++)
+//     {
+//         times[i] = ((times[i] + diff)) % 2400;
+//     }
+// }
+
+/* Exercise: Validating an IPv4 address */
+
+/* Pseudocode:
+if ipAddress consists of 4 numbers
+and
+if each ipAddress number has no leading zeroes
+and
+if each ipAddress number is in range 0 - 255
+
+then ipAddress is valid
+
+else ipAddress is invalid
 */
-Console.WriteLine("\n---Code Project 3: Processing string array content---\n");
 
-int periodIndex = 0;
-string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+// string[] ipv4Input = { "107.3.1.5", "255.0.0.255", "555..0.555", "255...255" };
+// string[] address;
+// bool validLength = false;
+// bool validZeroes = false;
+// bool validRange = false;
 
-foreach (var myString in myStrings)
-{
-    int currentIndex = 0;
-    string remainingString = myString;
-    periodIndex = myString.IndexOf('.');
+// foreach (string ip in ipv4Input)
+// {
+//     address = ip.Split(".", StringSplitOptions.RemoveEmptyEntries);
 
-    while (currentIndex < myString.Length)
-    {
-        // Case 1: Period exists - "I like pizza. I like salad."
-        if (periodIndex != -1)
-        {
-            Console.WriteLine(myString.Substring(currentIndex, periodIndex));
-            currentIndex = currentIndex + periodIndex + 2;
+//     ValidateLength();
+//     ValidateZeroes();
+//     ValidateRange();
 
-            if (currentIndex > myString.Length)
-            {
-                periodIndex = -1;
-                continue;
-            }
-            
-            periodIndex = myString.Substring(currentIndex).IndexOf('.');
-            remainingString = myString.Substring(currentIndex);
-        }
-        // Case 2: Period doesn't exist - "I like pizza I like salad" OR "I like pizza. I like salad
-        else
-        {
-            Console.WriteLine(remainingString);
-            break;
-        }
-    }
-}
+//     if (validLength && validZeroes && validRange)
+//     {
+//         Console.WriteLine($"{ip} is a valid IPv4 address");
+//     }
+//     else
+//     {
+//         Console.WriteLine($"{ip} is an invalid IPv4 address");
+//     }
+// }
+
+// void ValidateLength()
+// {
+//     validLength = address.Length == 4;
+// }
+
+// void ValidateZeroes()
+// {
+//     foreach (string number in address)
+//     {
+//         if (number.Length > 1 && number.StartsWith("0"))
+//         {
+//             validZeroes = false;
+//             return;
+//         }
+//     }
+//     validZeroes = true;
+// }
+
+// void ValidateRange()
+// {
+//     foreach (string number in address)
+//     {
+//         int value = int.Parse(number);
+//         if (value < 0 || value > 255)
+//         {
+//             validRange = false;
+//             return;
+//         }
+//         validRange = true;
+//     }
+// }
+
+/* Challenge:  */

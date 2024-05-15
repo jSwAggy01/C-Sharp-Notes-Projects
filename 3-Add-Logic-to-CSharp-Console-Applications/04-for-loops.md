@@ -104,8 +104,9 @@ for (int i = 10; i >= 0; i--)
 0
 ```
 
-## Conclusion
-No matter what application, just remember make sure that your code is always readable!
+## Learning Outcomes
+
+In this section, I was able to gain a proficient understanding of how to increment and decrement `for` loops in order to access and output various kinds of data at different intervals. Below is a *coding challenge* that I completed in order to internalize the information I had learned about implementing and understanding the behavior of the `for` looping construct.
 
 ```cs
 /* Fizzbuzz Challenge!

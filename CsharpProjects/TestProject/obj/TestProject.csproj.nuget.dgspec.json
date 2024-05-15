@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CSharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CSharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CSharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CSharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\jSwAggy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\jSwAggy\\OneDrive\\Documents\\My Workspace\\GitHub\\C-Sharp-OOP\\CSharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jSwAggy\\AppData\\Roaming\\NuGet\\NuGet.Config"
