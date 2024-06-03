@@ -2,6 +2,8 @@
 
 The objective of this project was to construct an application that implements a diverse assortment of selection and iteration statements in order to achieve the design goals of the *Contoso Pets Application*.
 
+<ins>**Source code**</ins>: [here!](FinalProjects/GuidedProject/Starter/Program.cs)
+
 ## Specifications
 
 - **Part I**: Perform clean-up, add mock features, build user interface

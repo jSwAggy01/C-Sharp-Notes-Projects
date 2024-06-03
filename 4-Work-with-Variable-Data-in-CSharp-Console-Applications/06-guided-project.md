@@ -10,6 +10,7 @@ Use data processing.
 - Manipulate number, string and character arrays, as well as add, remove, and sort data.
 - Modify and build complex strings from multiple data sources, and format data for display across regions.
 
+<ins>**Source code**</ins>: [here!](FinalProjects/GuidedProject/Starter/Program.cs)
 
 ## Specifications
 

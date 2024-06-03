@@ -2,6 +2,8 @@
 
 The objective of this project was to build a **Student Grading Application** that calculates the overall scores of *n* amount of students by averaging their exam scores as well as taking into account the average of their extra credit scores. This project is constructed upon the existing code of the previous guided project.
 
+<ins>**Source code**</ins>: [here!](FinalProjects/GuidedProject/Starter/Starter.cs)
+
 ## Specifications
 
 The feature implementations were as follows:
