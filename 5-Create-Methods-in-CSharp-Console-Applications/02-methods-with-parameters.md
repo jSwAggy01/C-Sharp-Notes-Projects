@@ -242,7 +242,7 @@ Name: Jonte,    Party Size: 2,  Allergies: Stone fruit
 */
 ```
 
-## <ins>Code Challenge</ins>: Add a method to display email addressess
+## <ins>Code Challenge</ins>: Add a method to display email addresses
 ```cs
 /* Code Challenge: Add a method to display email addresses */
 string[,] corporate = 

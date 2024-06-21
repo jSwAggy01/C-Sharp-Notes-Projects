@@ -134,7 +134,7 @@ exit
 
 ## Features Implemented
 
-### **Feature 3** - Ensure animal ages and physical descriptions are complete
+### **<ins>Feature 3</ins>**: Ensure animal ages and physical descriptions are complete
 
 ```cs
 case "3":
@@ -185,7 +185,7 @@ case "3":
             break;
 ```
 
-### **Feature 4** - Ensure animal nicknames and personality descriptions are complete
+### **<ins>Feature 4</ins>**: Ensure animal nicknames and personality descriptions are complete
 
 ```cs
 case "4":

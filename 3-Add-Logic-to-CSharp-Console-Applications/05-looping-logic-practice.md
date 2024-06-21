@@ -2,7 +2,7 @@
 
 In this section I was tasked with implementing solutions that involved adhering to a set of program requirements, utilizing the looping logic of `do-while`, `while`, `for`, and `foreach` statements. The code below represents my solutions to the given prompts, as well as what the output of the respective programs looked like.
 
-## Code Challenge: `do-while` Implementation
+## <ins>Coding Challenge</ins>: `do-while` Implementation
 
 ```cs
 /*
@@ -62,7 +62,7 @@ Hero was damaged and lost 3 health and now has 0 health.
 Hero loses.
 ```
 
-## Code Project 1: Integer Input Validation
+## <ins>Code Project 1</ins>: Integer Input Validation
 
 ```cs
 /* 
@@ -133,7 +133,7 @@ You entered 5. Please enter a number between 5 and 10.
 Your input value (7) has been accepted.
 ```
 
-## Code Project 2: String Input Validation
+## <ins>Code Project 2</ins>: String Input Validation
 ```cs
 /* 
 Requirements:
@@ -194,7 +194,7 @@ administrator
 Your input value (administrator) has been accepted.
 ```
 
-## Code Project 3: Processing string array content
+## <ins>Code Project 3</ins>: Processing string array content
 ```cs
 /*Code Project 3: Processing string array content
 
