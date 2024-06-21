@@ -8,8 +8,8 @@ I've included the original section titles and descriptions within each sections 
 
 ## Topics Covered
 
-1. [**<ins>Basics</ins>**: literal and variable values, string formatting, arithmetic](1-Write-Your-First-Code-Using-CSharp/README.md)
-2. [**<ins>Fundamentals</ins>**: methods, decision logic, arrays, loops, readable code](2-Create-and-Run-Simple-CSharp-Console-Applications/README.md)
+1. [**<ins>Basics</ins>**: literal and variable values, string formatting, arithmetic](1-Write-Your-First-Code-Using-CSharp/readme.md)
+2. [**<ins>Fundamentals</ins>**: methods, decision logic, arrays, loops, readable code](2-Create-and-Run-Simple-CSharp-Console-Applications/readme.md)
 3. [**<ins>Logic</ins>**: booleans, code blocks, switch-cases, more loops](3-Add-Logic-to-CSharp-Console-Applications/README.md)
 4. [**<ins>Variables</ins>**: data types, conversion techniques, helper methods, formatting](4-Work-with-Variable-Data-in-CSharp-Console-Applications/README.md)
 5. [**<ins>Methods</ins>**: parameters, return values](5-Create-Methods-in-CSharp-Console-Applications/README.md)
