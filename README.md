@@ -2,7 +2,7 @@
 
 ![](/other/csharp-certification-banner.png)
 
-This repository contains documentation of all of the notes and projects I completed while pursuing my professional Foundational C# with Microsoft Developer Certification via [freeCodeCamp](https://www.freecodecamp.org/learn).
+This repository contains documentation of all of the notes and projects I completed while pursuing my professional *Foundational C# with Microsoft* Developer Certification via [freeCodeCamp](https://www.freecodecamp.org/learn).
 
 I've included the original section titles and descriptions within each sections `README.md` file; and for simplicity, I have summarized what that section covered in the *Topics Covered* area below. Subsequently, I've also included a *List of Projects* that house all of the guided and challenge projects that sometimes built off of each previous section/module.
 
