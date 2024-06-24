@@ -87,7 +87,7 @@ Console.WriteLine($"Outside the code block: {value}");
 
 **Note**: In order for a compiler to compile, all possible decisions that your code can make, have to work in all situations.
 
-***TODO***: Add "100% of the time, it's gotta work, every time." meme gif.
+<img src="../other/everytime.gif" alt="drawing" width="700"/>
 
 Lastly, we have one final example:
 ```cs
