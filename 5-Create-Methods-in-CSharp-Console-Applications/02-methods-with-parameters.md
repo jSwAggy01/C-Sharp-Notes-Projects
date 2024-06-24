@@ -13,7 +13,7 @@ Below are the exercises I did to demonstrate these principles.
     - [Pass by reference (strings)](#exercise-pass-by-reference-strings)
     - [Methods with named arguements and optional parameters](#exercise-methods-with-named-arguements-and-optional-parameters)
 2.  **Code Challenge**:
-    - [Add a method to display emaill addressess](#code-challenge-add-a-method-to-display-email-addressess)
+    - [Add a method to display emaill addressess](#code-challenge-add-a-method-to-display-email-addresses)
 
 ## <ins>Exercise</ins>: Using parameters in methods
 ```cs
