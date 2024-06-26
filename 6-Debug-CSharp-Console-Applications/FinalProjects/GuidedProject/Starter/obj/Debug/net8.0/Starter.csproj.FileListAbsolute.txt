@@ -1,0 +1,15 @@
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+c:\Users\jSwAggy\OneDrive\Documents\My Workspace\GitHub\C-Sharp-OOP\6-Debug-CSharp-Console-Applications\FinalProjects\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
