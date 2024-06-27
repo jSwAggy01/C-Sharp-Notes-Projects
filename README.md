@@ -6,7 +6,7 @@ This repository contains documentation of all of the notes and projects I comple
 
 [**My official certification here!**](https://www.freecodecamp.org/certification/jSwAggy/foundational-c-sharp-with-microsoft)😊
 
-I've included the original section titles and descriptions within each sections `README.md` file; and for simplicity, I have summarized what that section covered in the *Topics Covered* area below. Subsequently, I've also included a *List of Projects* that house all of the guided and challenge projects that sometimes built off of each previous section/module. Additionally, at the very end I've included a study guide that I've compiled from the "Knowledge Checks" of each individual section and module (for those that would like to use this as a study tool😄). 
+I've included the original section titles and descriptions within each sections `README.md` file; and for simplicity, I have summarized what each specific section covered in the *Topics Covered* area below. Subsequently, I've also included a *List of Projects* that house all of the guided and challenge projects that sometimes built off of each previous section/module. Additionally, at the very end I've included a study guide that I've compiled from the "Knowledge Checks" of each individual section and module (for those that would like to use this as a study tool😄). 
 
 Cheers!
 
